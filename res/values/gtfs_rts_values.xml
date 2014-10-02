@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="gtfs_rts_db_version">20141002</integer>
+    <string name="gtfs_rts_label">AMT Bus</string>
+    <string name="gtfs_rts_authority">org.mtransit.android.ca_montreal_amt_bus.gtfs</string>
+    <string name="gtfs_status_for_poi_authority">org.mtransit.android.ca_montreal_amt_bus.gtfs</string>
+    <integer name="gtfs_rts_agency_type">3</integer>
+    <string name="gtfs_rts_area_min_lat">45.456391465</string>
+    <string name="gtfs_rts_area_max_lat">45.4982652034</string>
+    <string name="gtfs_rts_area_min_lng">-73.5661781803</string>
+    <string name="gtfs_rts_area_max_lng">-73.4433963858</string>
+</resources>
