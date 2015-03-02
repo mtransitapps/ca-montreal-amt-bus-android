@@ -1,16 +1,21 @@
-Title: Bus AMT Montréal (MonTransit)
+Title: Bus AMT Montréal - MonTransit
 ----------
-Short description: Informations du bus Express AMT de Montréal pour MonTransit BETA.
+Short description:
+Bus Express AMT de Montréal pour MonTransit BETA
+Horaires. Tweets de @amt_info
 ----------
 What's new in this version?:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Horaires du 5 Janvier 2015 au 30 Octobre 2020.
+Tweets de @amt_info et @VR_Champlain.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Cette application ajoute les informations du bus Express AMT de Montréal à MonTransit BETA.
+
+Cette application contient les horaires et les dernières nouvelles de @amt_info et @VR_Champlain sur Twitter.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Le bus Express de l'AMT dessert Montreal et Brossard.
 
@@ -27,3 +32,6 @@ Cette application est gratuite et open-source :
 https://github.com/mtransitapps/ca-montreal-amt-bus-android
 
 Cette application n'est pas associée à l'Agence Métropolitaine de Transport.
+
+Autorisations :
+- Autres: requis pour lire les nouvelles (Twitter)
