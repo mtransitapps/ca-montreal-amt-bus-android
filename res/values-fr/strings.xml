@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MonTransit AMT Bus (Montréal)</string>
-    <string name="app_desc">Données des bus de l\'AMT à Montréal pour MonTransit.</string>
+    <string name="app_desc">Données de l\'autobus de l\'AMT à Montréal pour MonTransit.</string>
 </resources>
