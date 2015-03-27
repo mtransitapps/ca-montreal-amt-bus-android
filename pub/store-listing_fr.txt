@@ -14,7 +14,7 @@ BETA : Merci de votre patience pendant que les dernières fonctionnalités sont 
 Full description:
 Cette application ajoute les informations de l'autobus Express AMT de Montréal à MonTransit BETA.
 
-Cette application contient les horaires et les dernières nouvelles de www.amt.qc.ca et @amt_info et @VR_Champlain sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de www.amt.qc.ca, YouTube et @amt_info et @VR_Champlain sur Twitter.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
@@ -35,4 +35,4 @@ https://github.com/mtransitapps/ca-montreal-amt-bus-android
 Cette application n'est pas associée à l'Agence Métropolitaine de Transport.
 
 Autorisations :
-- Autres: requis pour lire les nouvelles de www.amt.qc.ca et Twitter
+- Autres: requis pour lire les nouvelles de www.amt.qc.ca, YouTube et Twitter
