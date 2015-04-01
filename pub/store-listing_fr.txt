@@ -1,28 +1,24 @@
 Title: Bus AMT Montréal - MonTransit
 ----------
 Short description:
-Bus Express AMT de Montréal pour MonTransit BETA
+Autobus Express AMT de Montréal pour MonTransit
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 5 Janvier 2015 au 30 Octobre 2020.
 Nouvelles de www.amt.qc.ca.
 Tweets de @amt_info et @VR_Champlain.
-
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-Cette application ajoute les informations de l'autobus Express AMT de Montréal à MonTransit BETA.
+Cette application ajoute les informations de l'autobus Express AMT de Montréal à MonTransit.
 
 Cette application contient les horaires et les dernières nouvelles de www.amt.qc.ca, YouTube et @amt_info et @VR_Champlain sur Twitter.
 
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 L'autobus Express de l'AMT dessert Montreal et Brossard.
 
-Une fois cette application installée, l'application MonTransit BETA affichera les informations de l'autobus (horaires ...).
+Une fois cette application installée, l'application MonTransit affichera les informations de l'autobus (horaires ...).
 
-Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit BETA (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
+Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
