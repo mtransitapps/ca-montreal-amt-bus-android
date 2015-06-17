@@ -5,7 +5,7 @@ Autobus Express AMT de Montréal pour MonTransit
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 5 Janvier 2015 au 21 Juin 2015.
+Horaires du 5 janvier 2015 au 21 juin 2015.
 Nouvelles de www.amt.qc.ca.
 Tweets de @amt_info et @VR_Champlain.
 ----------
