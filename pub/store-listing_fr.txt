@@ -5,7 +5,7 @@ Autobus Express AMT de Montréal pour MonTransit
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 4 janvier 2016 au 30 octobre 2020.
+Horaires du 4 janvier 2016 au 26 juin 2016.
 Nouvelles de www.amt.qc.ca.
 Tweets de @amt_info et @VR_Champlain.
 ----------
