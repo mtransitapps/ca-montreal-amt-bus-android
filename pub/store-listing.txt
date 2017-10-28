@@ -5,7 +5,7 @@ Montreal AMT Express bus for MonTransit
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from August 21, 2017 to November 5, 2017.
+Schedule from November 6, 2017 to December 31, 2017.
 News from www.amt.qc.ca.
 Tweets from @amt_info and @VR_Champlain.
 ----------
