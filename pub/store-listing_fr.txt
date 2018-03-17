@@ -1,4 +1,4 @@
-Title: Bus RTM (AMT) Montréal - MonTransit
+Title: Bus Express RTM (AMT) Montréal - MonTransit
 ----------
 Short description:
 Autobus Express RTM (AMT) de Montréal pour MonTransit
@@ -11,6 +11,7 @@ Nouvelles de rtm.quebec.
 Tweets de @rtm_information et @VR_Champlain.
 ----------
 Full description:
+(maintenant inclus avec les autobus de la RTL à Longueuil https://goo.gl/dU2es1)
 Cette application ajoute les informations de l'autobus Express RTM (AMT) de Montréal à MonTransit.
 
 Cette application contient les horaires et les dernières nouvelles de rtm.quebec, YouTube et @rtm_information et @VR_Champlain sur Twitter.
