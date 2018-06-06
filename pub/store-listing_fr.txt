@@ -8,13 +8,13 @@ What's new in this version?:
 (maintenant inclus avec les autobus de la RTL à Longueuil https://goo.gl/dU2es1)
 Horaires du 25 juin 2018 au 19 août 2018.
 Nouvelles de rtm.quebec.
-Tweets de @rtm_information et @VR_Champlain.
+Tweets de @_alloexo et @VR_Champlain.
 ----------
 Full description:
 (maintenant inclus avec les autobus de la RTL à Longueuil https://goo.gl/dU2es1)
 Cette application ajoute les informations de l'autobus Express RTM (AMT) de Montréal à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de rtm.quebec, YouTube et @rtm_information et @VR_Champlain sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de rtm.quebec, YouTube et @_alloexo et @VR_Champlain sur Twitter.
 
 L'autobus Express du RTM (AMT) dessert Montreal et Brossard.
 

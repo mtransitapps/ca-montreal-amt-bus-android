@@ -8,13 +8,13 @@ What's new in this version?:
 (now included with Longueuil RTL buses https://goo.gl/dU2es1)
 Schedule from June 25, 2018 to August 19, 2018.
 News from rtm.quebec.
-Tweets from @rtm_information and @VR_Champlain.
+Tweets from @_alloexo and @VR_Champlain.
 ----------
 Full description:
 (now included with Longueuil RTL buses https://goo.gl/dU2es1)
 This application adds Montreal RTM (AMT) Express bus information to MonTransit.
 
-This app contains the bus schedule and the latest news from rtm.quebec, YouTube and @rtm_information and @VR_Champlain on Twitter.
+This app contains the bus schedule and the latest news from rtm.quebec, YouTube and @_alloexo and @VR_Champlain on Twitter.
 
 RTM (AMT) Express bus serves Montreal and Brossard.
 
